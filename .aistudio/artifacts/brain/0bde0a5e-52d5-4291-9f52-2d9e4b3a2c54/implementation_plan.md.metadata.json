@@ -1,0 +1,6 @@
+{
+  "summary": "예매 좌석 번호 정리기(Booking Seat Number Organizer) 구현 계획서. 좌석 파싱 정규식 및 연속 번호 압축 알고리즘, 유효성 검사, 원클릭 복사, 미니멀하고 직관적인 UI 구조를 정의합니다.",
+  "updatedAt": "2026-10-15T02:19:32.223354241Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
